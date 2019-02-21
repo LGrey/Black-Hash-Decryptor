@@ -1,4 +1,4 @@
-# Black-Hash-Decryptor
+# Black Hash Decryptor
 
 A Simple Bruteforce attack tool for 
 1. MD5
