@@ -25,7 +25,7 @@ Public Class Form1
         Dim a As New OpenFileDialog
         With a
             .Filter = "txt (*.txt)|*.txt"
-            .Title = "select password list"
+            .Title = "select hash list"
             If .ShowDialog = Windows.Forms.DialogResult.OK Then
                 TextBox5.Text = .FileName
             Else
