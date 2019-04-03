@@ -9,3 +9,6 @@ A Simple , Fast and Multi Threaded Bruteforce attack tool for
 5. SHA512
 
 and it support multi attack mode for MD5 [ decode more then one hash ]
+
+# Copyright
+this project is owned by : Black.Hacker and DarkSoftwareCo
